@@ -1,0 +1,2 @@
+curl --header "Content-Type: application/json" --request POST --data '{"setOfStrings" : [ {"value":"chcast"}, {"value":"chromecastic"}, {"value":"broadcaster"}]}' http://localhost:5000/lcs
+
